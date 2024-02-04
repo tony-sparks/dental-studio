@@ -1,0 +1,27 @@
+.icon {
+    color: rgb(233, 114, 233);
+    border-bottom: 1rem;
+    border-color: purple;
+}
+
+.address-link {
+   border-bottom: 1px solid rgb(243, 181, 243);
+}
+
+
+.menu-icon {
+    color: rgb(233, 114, 233);;
+}
+
+.social-media-links {
+    color: rgb(233, 114, 233);
+}
+
+.menu {
+    
+    border-bottom: 1px solid rgb(243, 181, 243);
+}
+
+.search-icon {
+    background-color: blue;
+}
