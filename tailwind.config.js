@@ -8,6 +8,7 @@ module.exports = {
       'purple': '#f472b6',
        'Rose': '#f43f5e'
     },
+ 
     extend: {},
   },
   plugins: [],

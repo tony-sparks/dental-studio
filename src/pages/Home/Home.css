@@ -1,0 +1,15 @@
+/**How to add an image 
+
+background: url("../../images/dh.jpg");
+
+**/
+.background {
+  background-color: rgb(159, 27, 192);
+  height:30rem;
+}
+
+.tooth {
+  height:30rem;
+  background-repeat: no-repeat;
+  background-size:cover;
+}
